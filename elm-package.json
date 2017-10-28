@@ -1,0 +1,16 @@
+{
+    "version": "1.0.0",
+    "summary": "Library providing infix Maybe.map & .andThen functions.",
+    "repository": "https://github.com/amaksimov/elm-maybe-pipeline.git",
+    "license": "MIT",
+    "source-directories": [
+        "."
+    ],
+    "exposed-modules": [
+        "MaybePipeline"
+    ],
+    "dependencies": {
+        "elm-lang/core": "5.0.0 <= v < 6.0.0"
+    },
+    "elm-version": "0.18.0 <= v < 0.19.0"
+}
